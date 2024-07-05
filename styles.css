@@ -11,6 +11,11 @@ h1 {
 
 }
 
+h5 {
+  font-size: 1.5rem;
+  color: #DBEDF3;
+}
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
@@ -69,8 +74,8 @@ background-image: url("images/tom4.png");
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
-  text-shadow: 3px 0 #DBEDF3;
+  color: #FCDC2A;
+  text-shadow: 7px 0 #420516;
   border-radius: 15px;
   display: inline-block;
   width: 150px;
